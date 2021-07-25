@@ -1,2 +1,13 @@
-id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1609016914
+id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",1627187404,78602,0,1
+2,https://mirror1.malwaredomains.com/files/justdomains,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",,0,0,4
+3,http://sysctl.org/cameleon/hosts,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",1619119396,20566,0,2
+4,https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",1615090745,0,0,4
+5,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",1619119403,34,0,2
+6,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",1619119404,2701,0,2
+8,https://blocklist.site/app/dl/facebook,0,1593835676,1618729136,"Migrated from /etc/pihole/adlists.list",1618719549,0,0,0
+9,https://block.energized.pro/porn/formats/hosts.txt,0,1596561324,1599984776,"Adult Content Blocker",,0,0,0
+10,https://antslovesoda.xyz/wn8w3Nok4TaY3j4oxoGakI0ISF1Lt5s63agl5z3qDogrJebh1yr4JdGyCmoWUagE.txt,0,1599984789,1623013221,,1619119412,351014,0,2
+11,https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt,0,1601934222,1603394392,,,0,0,0
+12,https://v.firebog.net/hosts/Admiral.txt,1,1613373451,1613373451,,1619119412,662,0,2
+13,https://dbl.oisd.nl/,1,1614930056,1614930056,,1627187552,1075502,0,1
