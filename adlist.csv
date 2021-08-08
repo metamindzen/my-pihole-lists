@@ -1,5 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",1627792204,84247,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",1628397003,85386,0,1
 2,https://mirror1.malwaredomains.com/files/justdomains,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",,0,0,4
 3,http://sysctl.org/cameleon/hosts,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",1619119396,20566,0,2
 4,https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist,1,1593835676,1593835676,"Migrated from /etc/pihole/adlists.list",1615090745,0,0,4
@@ -10,4 +10,4 @@ id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_
 10,https://antslovesoda.xyz/wn8w3Nok4TaY3j4oxoGakI0ISF1Lt5s63agl5z3qDogrJebh1yr4JdGyCmoWUagE.txt,0,1599984789,1623013221,,1619119412,351014,0,2
 11,https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt,0,1601934222,1603394392,,,0,0,0
 12,https://v.firebog.net/hosts/Admiral.txt,1,1613373451,1613373451,,1619119412,662,0,2
-13,https://dbl.oisd.nl/,1,1614930056,1614930056,,1627792349,927503,0,1
+13,https://dbl.oisd.nl/,1,1614930056,1614930056,,1628397149,923590,0,1
